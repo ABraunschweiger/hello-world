@@ -9,7 +9,7 @@
 <ul><li>HTML</li> <li>CSS</li> <li>Javascript</li></ul></p>
 <p>I want to keep learning and exploring everything I can. I suppose that means I will be a student forever and I'm excited to see where coding can take me.</p>
   <h2>Projects</h2>
+  <p>I will frequently update this page to reflect where I am in the stages of my learning and where I hope to be. Currently I have a few assignments I need to focus on for my coursework at school. When I have some more free time I will continue with my Codeacademy and Sololearn tutorials.</p>
   <h2>Outlook</h2>
-  <p>I will frequently update this page to reflect where I am in the stages of my learning and where I hope to be.</p>
 <p>Hopefully I'll meet some fellow explorers on my adventures. I look forward to collaborating and learning with all of you!</p></body>
 </html>
