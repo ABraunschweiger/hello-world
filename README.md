@@ -8,14 +8,7 @@
   <h2>Introduction
   </h2>
   <p>Hello world and welcome to my GitHub. I am a college student trying to find out where my passions align before I jump into any graduate programs. I have recently had a renewed interest in programming. I have coded using HTML and CSS since the days of Neopets. I designed backgrounds for guild pages as an elementary student on 
-<a href=http://www.neopets.com/> Neopets
-</a>
-. I am currently practicing various coding skills on 
-<a href= https://www.sololearn.com> Sololearn 
-</a> 
-and on 
-<a href= https://www.codecademy.com/> Codeacademy 
-</a> such as:
+<a href=http://www.neopets.com/> Neopets</a>. I am currently practicing various coding skills on <a href=https://www.sololearn.com> Sololearn </a> and on <a href=https://www.codecademy.com/> Codeacademy </a> such as:
 <ul>
   <li>HTML
   </li> 
